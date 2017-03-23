@@ -1,6 +1,6 @@
-#Seminario Arte + Ciencia + Tecnología
+# Seminario Arte + Ciencia + Tecnología
 
-##Repositorio de código del Seminario
+## Repositorio de código del Seminario
 
 ### Martín Zumaya
 ### Eduardo Obieta
