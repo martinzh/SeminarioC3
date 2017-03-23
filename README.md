@@ -2,8 +2,8 @@
 
 ## Repositorio de código del Seminario
 
-Martín Zumaya
-Eduardo Obieta
-Jaime Lobato
+* Martín Zumaya
+* Eduardo Obieta
+* Jaime Lobato
 
-Marzo 2017
+__Marzo 2017__
